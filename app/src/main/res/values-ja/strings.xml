@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lesson4_MultiLanguage</string>
+    <string name="have_fun">楽しむ</string>
+    <string name="do_something">いくつかのことをする</string>
+    <string name="click_here">ここをクリック</string>
+    <string name="surprise">驚き</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdaptingScreenOrientation</string>
+    <string name="do_something" />
+    <string name="surprise" />
+    <string name="have_fun" />
+    <string name="click_here" />
+</resources>
